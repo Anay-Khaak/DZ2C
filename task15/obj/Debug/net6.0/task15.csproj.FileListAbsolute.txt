@@ -1,0 +1,15 @@
+/Users/ondarae/Desktop/DZ2C/task15/obj/Debug/net6.0/task15.csproj.AssemblyReference.cache
+/Users/ondarae/Desktop/DZ2C/task15/obj/Debug/net6.0/task15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ondarae/Desktop/DZ2C/task15/obj/Debug/net6.0/task15.AssemblyInfoInputs.cache
+/Users/ondarae/Desktop/DZ2C/task15/obj/Debug/net6.0/task15.AssemblyInfo.cs
+/Users/ondarae/Desktop/DZ2C/task15/obj/Debug/net6.0/task15.csproj.CoreCompileInputs.cache
+/Users/ondarae/Desktop/DZ2C/task15/bin/Debug/net6.0/task15
+/Users/ondarae/Desktop/DZ2C/task15/bin/Debug/net6.0/task15.deps.json
+/Users/ondarae/Desktop/DZ2C/task15/bin/Debug/net6.0/task15.runtimeconfig.json
+/Users/ondarae/Desktop/DZ2C/task15/bin/Debug/net6.0/task15.dll
+/Users/ondarae/Desktop/DZ2C/task15/bin/Debug/net6.0/task15.pdb
+/Users/ondarae/Desktop/DZ2C/task15/obj/Debug/net6.0/task15.dll
+/Users/ondarae/Desktop/DZ2C/task15/obj/Debug/net6.0/refint/task15.dll
+/Users/ondarae/Desktop/DZ2C/task15/obj/Debug/net6.0/task15.pdb
+/Users/ondarae/Desktop/DZ2C/task15/obj/Debug/net6.0/task15.genruntimeconfig.cache
+/Users/ondarae/Desktop/DZ2C/task15/obj/Debug/net6.0/ref/task15.dll
